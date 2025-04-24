@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Objetos del jugador. Precauciones y como resguardarlos."
 ---
 
 En **AESIR Online** tus pertenencias se caerán al piso al morir salvo que las vinculemos a nuestra alma mediante encantamientos.

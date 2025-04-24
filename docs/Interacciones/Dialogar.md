@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Formas de hablar dentro del juego"
 ---
 
 En las tierras de **AESIR Online**, es muy importante que te relaciones con los demás aventureros. La comunicación es la clave para avanzar en estas tierras. Para comenzar a hablar con los demás, debes tocar la tecla “enter”  (“entrar” o “intro”) para abrir la barra de chat, luego de escribir el mensaje tocar nuevamente la tecla para enviar el mensaje. 

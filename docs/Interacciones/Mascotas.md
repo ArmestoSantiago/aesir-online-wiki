@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Acompañantes del aventurero"
 ---
 
 Las tierras de **AESIR Online** son muy peligrosas, es por ello que la compañía de una mascota nunca vendrá mal.

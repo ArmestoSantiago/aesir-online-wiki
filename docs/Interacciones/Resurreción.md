@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Manera de volver a la vida"
 ---
 
 Si llegáramos a morir en **AESIR Online**, tenemos dos maneras de poder volver a la vida: ser resucitado por otro aventurero o en el templo de alguna ciudad.

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Historia del juego"
 ---
 
 En el mundo de AESIR Online podrás encontrar pobladores con misiones o encargos para ti. Realizando estas misiones obtendrás recompensas que irán desde equipamiento, oro o experiencia y estatus.
