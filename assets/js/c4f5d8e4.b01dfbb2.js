@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaesir_wiki=self.webpackChunkaesir_wiki||[]).push([[634],{9179:(i,e,t)=>{t.r(e),t.d(e,{default:()=>r});var n=t(797),s=t(1410),a=t(4848);function r(){const{siteConfig:i}=(0,n.A)();return(0,a.jsx)(s.A,{title:`Hello from ${i.title}`,description:"Description will go into a meta tag in <head />",children:(0,a.jsx)("main",{})})}}}]);
