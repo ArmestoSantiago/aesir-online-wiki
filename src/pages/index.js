@@ -1,17 +1,15 @@
-
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
-
-
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="AESIR Online"
+      description="MMORPG">
       <main>
-
+        <h1>Bienvenidos a AESIR Online</h1>
+        <p>Descripción bonita</p>
+        <p>Video bonito</p>
+        <p>Galeria de imagen bonita</p>
       </main>
     </Layout>
   );

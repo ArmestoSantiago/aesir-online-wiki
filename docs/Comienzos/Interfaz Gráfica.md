@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 description: "Interfaz gráfica del juego"
-slug: "/"
 ---
 
 
