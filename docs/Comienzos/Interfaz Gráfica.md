@@ -6,7 +6,7 @@ description: "Interfaz gráfica del juego"
 
 # Interfaz Gráfica
 
-Antes de comenzar, es aconsejable entender como manejar tu aventurero en el mundo de AESIR Online, para ello echaremos un rápido vistaso a la interfaz gráfica: 
+Antes de comenzar, es aconsejable entender como manejar tu aventurero en el mundo de **AESIR Online**, para ello echaremos un rápido vistaso a la interfaz gráfica: 
 
 ![Interfaz Gráfica](/interface/interfaz-grafica.png)
 

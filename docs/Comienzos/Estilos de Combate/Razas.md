@@ -3,7 +3,7 @@ sidebar_position: 1
 description: "Razas AESIR Online"
 ---
 
-Antes que nada, debes entender que en las tierras de AESIR Online necesitarás luchar. Podrás elegir entre un gran número de variables para enfrentarte a temibles criaturas y otros poderosos aventureros como tú.
+Antes que nada, debes entender que en las tierras de **AESIR Online** necesitarás luchar. Podrás elegir entre un gran número de variables para enfrentarte a temibles criaturas y otros poderosos aventureros como tú.
 
 # Razas
 
