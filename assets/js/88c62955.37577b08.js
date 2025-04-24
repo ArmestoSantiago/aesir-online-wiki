@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaesir_wiki=self.webpackChunkaesir_wiki||[]).push([[217],{2340:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Comienzos","description":"B\xe1sicos de AESIR","slug":"/category/comienzos","permalink":"/category/comienzos","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Interfaz Gr\xe1fica","permalink":"/"}}}}')}}]);
