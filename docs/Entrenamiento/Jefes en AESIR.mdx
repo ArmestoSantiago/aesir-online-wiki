@@ -2,6 +2,7 @@
 sidebar_position: 3
 description: "Mayores enemigos dentro del juego"
 ---
+import "./bosses.css"
 
 export default function Bosses() {
   return (
@@ -10,7 +11,7 @@ export default function Bosses() {
       <p>La inteligencia artificial aumentada y la variedad de ataques empleados por los jefes convertirán el enfrentamiento en una batalla épica.</p>
       <p>Las misiones irán brindada información sobre la localización de los jefes.</p>
       <p>El primer jefe se encuentra en el Bosque del Aprendiz, donde comienza nuestra aventura. Las misiones que se encuentran en el mismo nos prepararán para la batalla.</p>
-      <div style={{display: "flex", gap: 12, marginTop: 64, marginBottom: 64}}>
+      <div className='boss-container'>
         <div> 
           <h2>Pogu</h2>
           <p>Archimago del Bosque de Aprendiz.</p>

@@ -1,0 +1,13 @@
+/* en custom.css o donde estés importando tu css */
+.boss-container {
+  display: flex;
+  gap: 12px;
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+@media (max-width: 768px) {
+  .boss-container {
+    display: block;
+  }
+}
